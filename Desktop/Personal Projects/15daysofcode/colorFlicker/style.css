@@ -7,7 +7,7 @@
 #container{
 	height: 90vh;
 	width: 100%;
-	/*background-color: purple;*/
+	background-color:#e26e26;
 }
 #infoPanel{
 	position: relative;
