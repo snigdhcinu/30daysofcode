@@ -1,3 +1,17 @@
+nav{
+	text-align: center;
+	padding-top: 10px;
+}
+nav button{
+	height: 3em;
+	margin: 0px 0.5em;
+}
+nav #name:hover{
+	box-shadow: 3px 3px #f5f5f5,-3px -3px #f5f5f5,-3px 3px #f5f5f5,3px -3px #f5f5f5;
+}
+nav #hex:hover{
+	box-shadow: 3px 3px #f5f5f5,-3px -3px #f5f5f5,-3px 3px #f5f5f5,3px -3px #f5f5f5;
+}
 #name{
 	background-color: #fff;
 }

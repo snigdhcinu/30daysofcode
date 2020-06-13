@@ -6,11 +6,11 @@
 </head>
 <body>
 	<nav>
-		<button id="name">Color name</button>
-		<button id="hex">hex value</button>
+		<button id="name" onclick="selectName()">Color name</button>
+		<button id="hex" onclick="selecthex()">hex value</button>
 	</nav>
 	<div id="container">
-		<div id="infoPanel"><h1>Backgound Color : </h1></div>
+		<div id="infoPanel"><h1 id="color-description">Backgound Color : #e26e26</h1></div>
 		<button id="button" onclick="change()"><h3>Click Me</h3></button>
 	</div>
 	<script type="text/javascript" src="script.js"></script>
