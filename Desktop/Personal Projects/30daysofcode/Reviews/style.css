@@ -1,0 +1,10 @@
+#canvas{
+	background-color: #a6dcef;
+	width: 100vw;
+	height: 100vh;
+}
+#container{
+	text-align: center;
+	position: relative;
+	top: 40vh;
+}
